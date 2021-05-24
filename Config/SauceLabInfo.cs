@@ -10,8 +10,8 @@ namespace MoneyBoxTest.Config
 
         public SauceLabsInfo() 
         {
-            Info.Add("sauceUser", "timaday");
-            Info.Add("sauceAccessKey", "72de811d-a776-4fb2-9394-7ba6a690d46d");
+            Info.Add("sauceUser", "testUser");
+            Info.Add("sauceAccessKey", "");
         }
 
         public string Get(string key)
